@@ -131,7 +131,7 @@ f = return . show
 Package C, depends on package B:
 
 ``` {.haskell}
-module Package C where
+module PackageC where
 
 import PackageB
 
